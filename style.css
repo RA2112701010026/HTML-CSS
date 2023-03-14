@@ -1,0 +1,85 @@
+.name{font-family: 'Times New Roman', Times, serif;
+text-align: center;color:#d81758;
+line-height:3px;
+font-size:50px;}
+body{background-color: #ffffff;
+background-image: url(/background.jpg);
+background-size:cover;
+background-repeat: no-repeat;}
+
+
+nav.index,a{background-color:#000;
+font-weight: 700;
+text-align: center;
+text-decoration: none;
+color: #ffffff;
+border-radius: 50px;
+padding: 30px;
+width: 1400px;
+height: 20px;
+}
+nav a:hover{color: #2779a7;
+}
+
+div.payment>a{color: #8eab80;
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+border-radius: 50px;
+padding: 30px;
+background-image: none;
+position: relative;
+font-weight: 900; 
+}
+
+.payment,a{position: relative;
+left: 10px;
+text-align: center;}
+
+div.videos1{float: right;
+background-color: #050505;
+border-radius : 18px;
+padding: 5px;
+margin: 30px;}
+div.videos2{float: left;
+background-color: black;
+ border-radius : 18px;
+padding: 5px;
+margin: 30px;
+}
+
+footer,div.p{text-align: center;
+background-color: #000;
+color: #ffffff;
+font-size: large;
+padding: 20px;
+clear: both;
+position: relative;
+top: 20px;}
+
+div.review{
+    background-color: gray;
+    border: 20;
+    border-color: #ffffff;
+    padding: 30px;
+}
+div.review,h2{text-align: center;
+color: #ffffff;}
+
+div.checkbox{
+    position: relative;
+}
+
+div.login{float: right;
+position: relative;
+bottom: 80%;
+font-size: large;}
+div.login :hover{color:#2779a7 ;}
+div.payment,a:hover{color: #2779a7;}
+
+#menu{color: #6d8b5e;
+font-weight: 900;
+background-image: none;
+text-align: center;
+}
+
+ 

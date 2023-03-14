@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(20, 184, 224);
+}
+
+footer{
+    text-align: center;
+}
+
+
+h1{text-align: center;
+border-radius: 20px;
+padding: 3opx;
+background-color: black;
+color: aliceblue;}
+
+div.card-detials{
+text-align: center;
+border: 20px;
+padding: 10px;
+border-color: rgb(250, 254, 254);
+color: rgb(3, 3, 3);
+background-color: rgb(255, 255, 255);
+font-size: x-large;
+font-weight: 900;
+width: 50%;
+position: relative;
+left: 25%;
+}
+
+h2{color: black;
+
+}

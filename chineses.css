@@ -1,0 +1,43 @@
+body{background-image: url(/china.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 30px;}
+    
+    header,h1{font-size: 50px;
+    text-align: center;
+    color: rgb(243, 239, 239);
+    font-family:'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    }
+    header,h6{color: rgb(255, 255, 255);
+    }
+    
+    nav.staters,li.indianstaters,p.rs{
+        font-size: 20px;
+        font-weight :700;
+    }
+    
+    
+    
+    p.staters,li.indianstaters,nav{
+    color: rgb(251, 250, 250);
+    
+    }
+    li.indianstaters:hover{color: rgb(255, 2, 2);}
+    
+    div.ind-staters{color: rgb(246, 243, 243);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 30px;}
+    .payment,a{color: #49b613;
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        border-radius: 20px;
+        padding: 10px;
+     background-color: azure;
+     font-size: larger;
+     font-weight: 900; }
+    
+    
+    
+    

@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(21, 125, 204);
+}
+
+
+div.name{text-align: center;
+font-size: larger;}
+
+div.login{text-align: center;
+font-size: large;
+font-weight: 900;
+text-decoration: none;
+}
+
+div.user{text-align: center;
+background-color: aliceblue;
+border: 2000mm;
+padding: 10mm;
+border-color: azure;
+width: 40%;
+position: relative;
+left:28% ;
+font-size: medium;
+font-weight: 800;
+}
+
+
